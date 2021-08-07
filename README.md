@@ -12,7 +12,7 @@ Time spent: **1** hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **view all the buttons**
-* [x] User can **add, multiply, divide, and mins the nubmers ** in the calculator
+* [x] User can **add, multiply, divide, and mins the nubmers** in the calculator
 
 
 ## Video Walkthrough
