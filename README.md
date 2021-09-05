@@ -1,7 +1,7 @@
 # Calculator
 Simple Calculator
 
-# Project 1 - *Calculator*
+# Project - *Calculator*
 
 Submitted by: **Zhuohao Tan**
 
